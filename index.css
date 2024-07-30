@@ -15,6 +15,55 @@
 .messaging
 {
     width:5vw;
-    margin-left:97px;
-    margin-top:30px;
+}
+li
+{
+    display: inline-block;
+    margin:0 15px;
+}
+.second-overview-rectangle
+{
+    background-image:linear-gradient(to right, rgb(238, 32, 238),rgba(255, 166, 0, 0.961),rgba(255, 255, 0, 0.951));
+    width:100vw;
+    height:50vh;
+}
+.First-part
+{
+    height:70px;
+}
+.example
+{
+    margin-left:750px;
+    margin-top:-300px;
+}
+.check
+{
+    margin-left:660px;
+}
+.widgets
+{
+    margin-left:660px;
+}
+.accords
+{
+    margin-top:299px;
+    margin-left:200px;
+}
+.layouts
+{
+    margin-left:200px;
+}
+.compact
+{
+    margin-left:200px;
+}
+.detail
+{
+    margin-left:200px;
+    margin-bottom:100px;
+}
+.titles
+{
+    margin-left:700px;
+    margin-top:90px;
 }
