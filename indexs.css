@@ -1,0 +1,36 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+.rectangle-first
+{
+    width:100px;
+    height:80px;
+    background-color: lightcoral;
+}
+.rectangle-second
+{
+    width:400px;
+    height:100px;
+    background-color: aqua;
+}
+.rectangle-third
+{
+    width:300px;
+    height:150px;
+    background-color: lightgreen;
+}
+.rectangle-fourth
+{
+    width:240px;
+    height:20px;
+    background-color: orange;
+}
+.rectangles
+{
+    background-color: greenyellow;
+    width:100%;
+    display: flex;
+    align-items: center;
+}

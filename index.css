@@ -23,7 +23,7 @@ li
 }
 .second-overview-rectangle
 {
-    background-image:linear-gradient(to right, rgb(238, 32, 238),rgba(255, 166, 0, 0.961),rgba(255, 255, 0, 0.951));
+    background-image:linear-gradient(to right, rgb(238, 32, 238)25%,rgba(200, 33, 94, 0.961),rgba(200, 33, 94, 0.961),rgba(200, 33, 94, 0.961),rgba(255, 166, 0, 0.961));
     width:100vw;
     height:50vh;
 }
@@ -31,39 +31,26 @@ li
 {
     height:70px;
 }
-.example
+.Frequently-asked-question
 {
-    margin-left:750px;
-    margin-top:-300px;
+   height:85%;
 }
-.check
+.parts
 {
-    margin-left:660px;
+    height:15%;
 }
-.widgets
+.login
 {
-    margin-left:660px;
+    text-decoration: none;
+    color:black;
 }
-.accords
+.btn
 {
-    margin-top:299px;
-    margin-left:200px;
+    margin-right:300px;
 }
-.layouts
+.container
 {
-    margin-left:200px;
-}
-.compact
-{
-    margin-left:200px;
-}
-.detail
-{
-    margin-left:200px;
-    margin-bottom:100px;
-}
-.titles
-{
-    margin-left:700px;
-    margin-top:90px;
+    padding-top:90px;
+    padding-bottom:80px;
+    
 }
