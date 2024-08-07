@@ -85,33 +85,10 @@ li
     justify-content: center;
     align-items: center;
 }
-.rectangles-box
-{
-    margin-left:700px !important;
-    margin-top:-350px;
-}
-.rectangles-dot
-{
-    margin-left:700px !important;
-    margin-top:-5px;
-}
+
 .gradient-box
 {
     background-image:linear-gradient(70deg, rgb(238, 32, 238)25%,rgba(200, 33, 94, 0.961),rgba(255, 166, 0, 0.961));
     width:100%;
     height:600px;
 }
-.discounts
-{
-    margin-left:-70px !important;
-    margin-top:20px;
-}
-.footer-rectangle
-{
-    background-color: black;
-    width:100vw;
-    height:100vh;
-}
-
-  
-  
